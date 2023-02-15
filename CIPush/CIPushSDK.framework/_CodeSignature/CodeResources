@@ -4,10 +4,6 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIPushConst.h</key>
-		<data>
-		nKM9T689LDsZA7Nr2sPTdJd0vfc=
-		</data>
 		<key>Headers/CIPushSDK.h</key>
 		<data>
 		MDf2DKaT9cUmC32+u1vnvesleoM=
@@ -27,17 +23,6 @@
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIPushConst.h</key>
-		<dict>
-			<key>hash</key>
-			<data>
-			nKM9T689LDsZA7Nr2sPTdJd0vfc=
-			</data>
-			<key>hash2</key>
-			<data>
-			xy6WTqa9CsYaLXVEbIo5KJnM5ODcBt7+McAmFNEfDa0=
-			</data>
-		</dict>
 		<key>Headers/CIPushSDK.h</key>
 		<dict>
 			<key>hash</key>
