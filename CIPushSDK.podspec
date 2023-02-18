@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'CIPushSDK'
-  s.version          = '0.0.4'
+  s.version          = '0.0.5'
   s.summary          = 'A short description of CIPush.'
 
 # This description is used to generate tags and improve search results.
@@ -35,7 +35,6 @@ TODO: Add long description of the pod here.
   s.user_target_xcconfig = {
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
-  s.static_framework = true
 
   s.vendored_frameworks = "CIPush/CIPushSDK.framework"
   
