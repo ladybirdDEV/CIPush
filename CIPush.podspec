@@ -7,8 +7,8 @@
 #
 
 Pod::Spec.new do |s|
-  s.name             = 'CIPushSDK'
-  s.version          = '0.0.6'
+  s.name             = 'CIPush'
+  s.version          = '0.0.7'
   s.summary          = 'A short description of CIPush.'
 
 # This description is used to generate tags and improve search results.
@@ -38,7 +38,7 @@ TODO: Add long description of the pod here.
       'EXCLUDED_ARCHS[sdk=iphonesimulator*]' => 'arm64'
   }
 
-  s.vendored_frameworks = "CIPush/CIPushSDK.framework"
+  s.vendored_frameworks = "CIPush/CIPush.framework"
   
   s.dependency 'GTSDK', '2.7.2.0-noidfa'
   s.dependency 'FirebaseMessaging', '10.2.0'

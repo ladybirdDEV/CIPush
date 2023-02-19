@@ -4,9 +4,9 @@
 <dict>
 	<key>files</key>
 	<dict>
-		<key>Headers/CIPushSDK.h</key>
+		<key>Headers/CIPush.h</key>
 		<data>
-		MDf2DKaT9cUmC32+u1vnvesleoM=
+		wpUolMjZDqSIB351U711T3hoAzA=
 		</data>
 		<key>Headers/CIPushTool.h</key>
 		<data>
@@ -14,24 +14,24 @@
 		</data>
 		<key>Info.plist</key>
 		<data>
-		gE0aETO8OpE8/o2hXuDukXy5b1Q=
+		PDcEOJdGCPn+y+PLkViTBQemYiQ=
 		</data>
 		<key>Modules/module.modulemap</key>
 		<data>
-		hD9ody1z7J8V/oufkgzTT+X92XI=
+		Bj9vSbSDKIaVpqFVeKROcGeFlMk=
 		</data>
 	</dict>
 	<key>files2</key>
 	<dict>
-		<key>Headers/CIPushSDK.h</key>
+		<key>Headers/CIPush.h</key>
 		<dict>
 			<key>hash</key>
 			<data>
-			MDf2DKaT9cUmC32+u1vnvesleoM=
+			wpUolMjZDqSIB351U711T3hoAzA=
 			</data>
 			<key>hash2</key>
 			<data>
-			3fdsnERmIMK5hAyZT+4p+rpj8yySBa4CKW3h4iwOt0I=
+			L29wZv3gONmxdpsjeXp3ptyCJ87NHsLRks8AHtw9Uxg=
 			</data>
 		</dict>
 		<key>Headers/CIPushTool.h</key>
@@ -49,11 +49,11 @@
 		<dict>
 			<key>hash</key>
 			<data>
-			hD9ody1z7J8V/oufkgzTT+X92XI=
+			Bj9vSbSDKIaVpqFVeKROcGeFlMk=
 			</data>
 			<key>hash2</key>
 			<data>
-			QLpaRiJKJwHMRdC1VCmst8F7HacQJDlNu6MUb0JR63k=
+			Yu6TyT7IqnusRStgbiiEjnt18fBjhkkgPjaAhfI0mrQ=
 			</data>
 		</dict>
 	</dict>

@@ -1,0 +1,6 @@
+framework module CIPush {
+  umbrella header "CIPush.h"
+
+  export *
+  module * { export * }
+}
